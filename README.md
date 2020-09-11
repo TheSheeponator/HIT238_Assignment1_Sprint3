@@ -2,7 +2,7 @@
 
 There are two versions:
 - PHP
-  These scripts are currently running on https://320298.spinetail.cdu.edu.au/.
+  These scripts are currently running on https://320298.spinetail.cdu.edu.au/. (username='admin', password='1')
   As suspected the HTML version is incompatible with the server due to CORS and I currently do not have the time to fix this before the deadline.
   If confirmation of the code is required please contact me.
 
